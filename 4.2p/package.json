@@ -1,5 +1,5 @@
 {
-  "name": "week5_1",
+  "name": "week4_1",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^4.21.2",
+    "mongoose": "^8.13.0"
   }
 }
